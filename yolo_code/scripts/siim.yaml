@@ -1,0 +1,4 @@
+path: /home/sundeep/unknown_yolo_xray/datasets/siim_yolo_data
+train: images/train
+val: images/val
+names: [pneumothorax]

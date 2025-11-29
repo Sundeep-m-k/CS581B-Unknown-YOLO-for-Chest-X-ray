@@ -1,0 +1,4 @@
+path: /home/sundeep/unknown_yolo_xray/datasets/rsna_yolo
+train: images/train
+val: images/val
+names: [pneumonia]
