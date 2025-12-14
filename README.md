@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Project
-=======
+
 # Enhancing Point Beyond Class for Chest X-Ray Localization Using ResNet-50, Swin, ViT Backbones and YOLO Baseline Comparison
 
 Authors:
